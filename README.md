@@ -27,7 +27,7 @@ This Flutter application features a simple and intuitive user interface with the
 ## Screenshots
 
 ### SignIn Screen
-<img src="images/signin1.png" alt="SignIn Screen" width="300">
+<img src="images/signin1.png" alt="SignIn Screen" width="300" >
 
 ### SignUp Screen
 <img src="images/signup.png" alt="SignUp Screen" width="300">
@@ -52,4 +52,4 @@ To get started with this project, follow the instructions below:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/ingabireol/flutter_navigation_ui_assignment.git
