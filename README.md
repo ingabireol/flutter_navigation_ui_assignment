@@ -1,16 +1,55 @@
-# flutter_navigation_ui_assignment
+# Flutter App with SignIn, SignUp, Calculator, and Drawer
 
-A new Flutter project.
+This Flutter application features a simple and intuitive user interface with the following screens:
+- **SignIn**
+- **SignUp**
+- **Calculator**
+- **Navigation Drawer**
+
+## Features
+
+1. **SignIn Screen**
+    - Users can sign in with their email and password.
+    - Includes animations for a smooth user experience.
+
+2. **SignUp Screen**
+    - Users can sign up with their name, email, password, and confirm their password.
+    - Includes animations for a smooth user experience.
+
+3. **Calculator Screen**
+    - Basic calculator functionality with a clean UI.
+
+4. **Navigation Drawer**
+    - A slide-out navigation drawer with a hamburger menu icon.
+    - Allows navigation between different screens.
+    - Customizable appearance with icons and styling.
+
+## Screenshots
+
+### SignIn Screen
+![SignIn Screen](images/signin.png)
+
+### SignUp Screen
+![SignUp Screen](images/signup.png)
+
+### Calculator Screen
+![Calculator Screen](images/calculator.png)
+
+### Navigation Drawer
+![Navigation Drawer](images/drawer.png)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this project, follow the instructions below:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Dart](https://dart.dev/get-dart)
+- A code editor like [Visual Studio Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
