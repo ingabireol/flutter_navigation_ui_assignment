@@ -27,16 +27,16 @@ This Flutter application features a simple and intuitive user interface with the
 ## Screenshots
 
 ### SignIn Screen
-![SignIn Screen](images/signin.png)
+<img src="images/signin1.png" alt="SignIn Screen" width="300">
 
 ### SignUp Screen
-![SignUp Screen](images/signup.png)
+<img src="images/signup.png" alt="SignUp Screen" width="300">
 
 ### Calculator Screen
-![Calculator Screen](images/calculator.png)
+<img src="images/calculator.png" alt="Calculator Screen" width="300">
 
 ### Navigation Drawer
-![Navigation Drawer](images/drawer.png)
+<img src="images/drawer.png" alt="Navigation Drawer" width="300">
 
 ## Getting Started
 
